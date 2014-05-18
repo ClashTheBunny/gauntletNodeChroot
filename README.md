@@ -27,3 +27,6 @@ run:
 ```
 
 you are now in debian on your node.  add users, change passwords, start ssh
+```shell
+adduser -m clashthebunny; passwd clashthebunny; service ssh start
+```
